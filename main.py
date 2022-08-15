@@ -1,14 +1,14 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Vegetable Image Dataset Midproject",
-    page_icon="🥗",
+    page_title="Suoul_Landmark",
+    page_icon="🗽",
     layout="wide",
 )
-st.sidebar.markdown("# Vegetable Image Dataset ")
+st.sidebar.markdown("# Suoul_Landmark Dataset ")
 
-st.markdown('# Mid Project')
-st.markdown("## 15가지의 채소들🥗")
-st.markdown("콩, 여주, 박, 브리잘, 브로콜리, 양배추, 고추, 당근, 콜리플라워, 오이, 파파야, 감자, 호박, 무, 토마토")
+st.markdown('# Final Project')
+st.markdown("## 랜드마크~건설! (서울편)🏢")
+st.markdown("관광 산업과 AI 기반 시각 분야 기술 접목(이미지 인식) 을 통해 국내 관광 및 인공지능 산업의 글로벌 경쟁력 강화")
 st.info(
-    '#### 데이터 출처: [Vegetable Image Dataset link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)')
+    '## 데이터 출처: [Vegetable Image Dataset link](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=56)')

@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="🗽",
     layout="wide",
 )
-st.sidebar.markdown("# Seoul_Landmark Dataset ")
+st.sidebar.markdown("# Seoul Landmark Dataset ")
 
 st.markdown('# Final Project')
 st.markdown("### 랜드마크 건설! 🏢")
